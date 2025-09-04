@@ -8,8 +8,8 @@
 class enviroplus (
   String                                               $enviro_group          = 'enviro',
   String                                               $enviro_user           = 'enviro',
-  Boolean                                              $enble_prometheus      = false,
-  Boolean                                              $install_prometheus     = false,
+  Boolean                                              $enble_prom            = false,
+  Boolean                                              $install_prome_export  = false,
 
 ){
   # dependencies
