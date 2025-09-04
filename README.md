@@ -1,10 +1,11 @@
 # ikonia-enviroplus
-# place holder to get pdk readme integration like cirrax
-#[![PDK](https://github.com/ikonia/ikonia-enviroplus/actions/workflows/pdk.yml/badge.svg)]###(https://github.com/cirrax/puppet-libvirt/actions/workflows/pdk.yml)
-#[![Puppet Forge](https://img.shields.io/puppetforge/v/cirrax/libvirt.svg?style=flat-square)]#(https://forge.puppetlabs.com/cirrax/libvirt)
-#[![Puppet Forge](https://img.shields.io/puppetforge/dt/cirrax/libvirt.svg?style=flat-square)](https://forge.puppet.com/cirrax/libvirt)
-#[![Puppet Forge](https://img.shields.io/puppetforge/e/cirrax/libvirt.svg?style=flat-square)](https://forge.puppet.com/cirrax/libvirt)
-#[![Puppet Forge](https://img.shields.io/puppetforge/f/cirrax/libvirt.svg?style=flat-square)](https://forge.puppet.com/cirrax/libvirt)
+# Install Deploy & Configure Enviro+ on your PI Infrastructure
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+
 Puppet Module to deploy and configure Pimoroni Enviro+
 #### Table of Contents
 1. [Overview](#overview)
