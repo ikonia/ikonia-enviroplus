@@ -1,2 +1,3 @@
 # common parameters
-# 
+enviroplus::enviro_gid: 1500
+enviroplus::enviro_uid: 1500
