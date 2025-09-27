@@ -2,8 +2,8 @@
 class enviroplus::install {
 
 user { 'envirouser':
-  ensure     => present,
-  name       => enviro,
+  ensure     => 'present',
+  name       => 'enviro',
   gid        => $enviroplus::gid,
   shell      => '/bin/bash',
   comment    => 'enviro+ user',

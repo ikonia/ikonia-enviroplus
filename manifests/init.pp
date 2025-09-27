@@ -13,8 +13,8 @@ class enviroplus (
 
 ){
   # dependencies
-  Class['enviroplus::Install']
-  -> Class['enviroplus::Config']
+  Class['enviroplus::install']
+  -> Class['enviroplus::config']
 
   include enviroplus::install
   include enviroplus::config
