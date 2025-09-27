@@ -19,3 +19,4 @@ class enviroplus (
   include enviroplus::install
   include enviroplus::config
   include enviroplus::service
+}
